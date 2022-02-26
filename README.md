@@ -5,9 +5,9 @@ In this project I have built an app that displays a list of Articles, it allows 
 ## Screenshots
 
 ![image](./screenshots/Capture1.png)
-![image](./screenshots/Capture2.png)
-![image](./screenshots/Capture3.png)
-![image](./screenshots/Capture4.png)
+![image](./screenshots/Capture2.PNG)
+![image](./screenshots/Capture3.PNG)
+![image](./screenshots/Capture4.PNG)
 
 ## Built With
 
